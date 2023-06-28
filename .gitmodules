@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AHPtools"]
 	path = AHPtools
 	url = https://github.com/cran/AHPtools
-	shallow = true
-	registered = true
 [submodule "createLogicalPCM"]
 	path = createLogicalPCM
 	url = https://github.com/cran/createLogicalPCM
-	shallow = true
-	registered = true
 [submodule "findPackage"]
 	path = findPackage
 	url = https://github.com/cran/findPackage
-	shallow = true
-	registered = true
