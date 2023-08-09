@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "AHPtools"]
 	path = AHPtools
-	url = https://github.com/cran/AHPtools
+	url = https://github.com/amarnathbose/ahptools
 [submodule "createLogicalPCM"]
 	path = createLogicalPCM
 	url = https://github.com/cran/createLogicalPCM
